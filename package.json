@@ -1,0 +1,20 @@
+{
+  "name": "open-message",
+  "version": "0.1.0",
+  "description": "It's a Slack clone!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Course-Reactor/open-message.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Course-Reactor/open-message/issues"
+  },
+  "homepage": "https://github.com/Course-Reactor/open-message#readme"
+}
